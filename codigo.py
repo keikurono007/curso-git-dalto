@@ -1,4 +1,4 @@
-nombre = "Soygama"
+nombre = "camila"
 apellido = "sanchez"
 
 saludo = (f"Hola {nombre} {apellido}, como estas?")
